@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761122094888",
+    "project_id": "car-saver-24087",
+    "storage_bucket": "car-saver-24087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761122094888:android:d10b204080a70e0816da1d",
+        "android_client_info": {
+          "package_name": "com.example.untitled9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761122094888-2omdu7m5m21h1nbl8imbhi51jgngldtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBxvo7lzSHM2mX3qtJzTwfFZdp7szH-eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761122094888-2omdu7m5m21h1nbl8imbhi51jgngldtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
